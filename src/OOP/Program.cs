@@ -9,7 +9,7 @@ class Schule
     public string name; // member Variable oder Feld
     public int anzahlSchueler;
     public int anzahlLehrer;
-    
+
     // non static Methode
     public int AnzahlPersonen()
     {

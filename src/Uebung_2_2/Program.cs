@@ -84,7 +84,7 @@ class Rechteck
 
     public int Tile(Rechteck r)
     {
-        int anzahl =  (int)(flaeche() / r.flaeche());
+        int anzahl = (int)(flaeche() / r.flaeche());
 
         return anzahl;
     }

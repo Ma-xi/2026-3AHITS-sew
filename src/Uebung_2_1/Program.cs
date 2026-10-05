@@ -18,7 +18,7 @@ class Schulklasse
     {
         KV_Name = name;
         anzahlSchueler = zahl;
-        
+
     }
 
 
@@ -41,7 +41,7 @@ class Schulklasse
     {
         AHET.anzahlSchueler += 1;
         anzahlSchueler -= 1;
-        
+
     }
 }
 
@@ -58,7 +58,7 @@ class Program
         Console.WriteLine(AHITS);
         Console.WriteLine(AHET);
 
-        
+
 
     }
 
